@@ -30,7 +30,7 @@ Modify index.html to update the content such as event title, description, and so
 Adjust styles in styles.css to change colors, fonts, or layout according to your preferences.
 Customize the countdown timer in script.js by setting the target date and time.
 
-##Contributors
+## Contributors
 Uvindu Anuradha (@uvindu94)
 
 ## License
